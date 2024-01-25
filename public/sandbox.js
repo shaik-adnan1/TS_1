@@ -16,3 +16,6 @@ obj2 = {
     beltColor: 'blue'
 };
 console.log(obj2);
+;
+let mySize = 2 /* Size.Medium */;
+console.log(mySize);

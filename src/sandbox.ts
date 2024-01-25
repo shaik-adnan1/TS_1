@@ -27,3 +27,9 @@ obj2 = {
     beltColor: 'blue'
 }
 console.log(obj2);
+
+// Enums
+
+const enum Size { Small = 1, Medium, Large};
+let mySize: Size = Size.Medium;
+console.log(mySize);
